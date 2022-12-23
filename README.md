@@ -10,7 +10,7 @@ With these points in mind, in this Challenge you'll set yourself up for future s
 
 ## Challenge Screenshot
 
-![image](https://user-images.githubusercontent.com/119803685/209279133-ff478384-334d-484a-9946-e45164ed2f80.png)
+[![image](https://user-images.githubusercontent.com/119803685/209279133-ff478384-334d-484a-9946-e45164ed2f80.png)](https://cdn.inst-fs-pdx-prod.inscloudgate.net/71d9a5ce-41a1-4c08-a835-0407758fbaab/02-advanced-css-homework-demo.gif?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6ImNkbiJ9.eyJyZXNvdXJjZSI6Ii83MWQ5YTVjZS00MWExLTRjMDgtYTgzNS0wNDA3NzU4ZmJhYWIvMDItYWR2YW5jZWQtY3NzLWhvbWV3b3JrLWRlbW8uZ2lmIiwidGVuYW50IjoiY2FudmFzIiwidXNlcl9pZCI6IjE1MDQyMDAwMDAwMDA0NTUzMSIsImlhdCI6MTY3MTczODc3MywiZXhwIjoxNjcxODI1MTczfQ.GD6N-6GGZ3OARofSpj55HtjcM_mjOQvLww2WsSK86MUkJP6qMzqrPJv3VggEKXG7zSnjuINzjWYMsiBG4Wj91A&download=1&content_type=image%2Fjpeg)
 
 ## Challenge URL
 
